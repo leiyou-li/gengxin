@@ -1,0 +1,61 @@
+{
+    "urls":[
+             {
+                "url":"https://gitee.com/shan-hai-guan-wu/test/raw/master/leiyou.json",
+                "name":"雷友📽️主推"
+        },
+{
+                "url":"http://饭太硬.top/tv",
+                "name":"雷友📽️饭太硬"
+        },
+        {
+                "url":"http://肥猫.live",
+                "name":"雷友📽️肥猫"
+        },
+        {       "url":"https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+                "name":"雷友📽️PG"
+        },
+        {
+                "url":"http://rihou.vip:55/天天开心",
+                "name":"雷友📽️开心"
+        },
+        {       "url":"http://tvbox.王二小放牛娃.xyz",
+                "name":"雷友📽️王二小"
+        },
+        {       "url":"http://xiaohu.xzam.cn/xiaohu",
+                "name":"雷友📽️小胡"
+        },
+        {
+                "url":"http://rihou.cc:88/荷城茶秀",
+                "name":"雷友📽️荷城"
+        },
+        {
+                "url":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+                "name":"雷友📽️香雅情"
+        },
+        {
+                "url":"http://ok321.top/ok",
+                "name":"雷友📽️影视ok"
+        },
+        {
+                "url":"https://files.catbox.moe/eu3uj5",
+                "name":"雷友📽️夜猫子"
+        },
+        {
+                "url":"https://atomgit.com/tvkj/tianwei/raw/main/svip.json",
+                "name":"雷友📽️天微"
+        },
+        {       "url":"http://qrh.yimkj.cn/ym/壹梦.json",
+                "name":"雷友📽️壹梦"
+        },
+        {       "url":"https://youdu.fan/tvboxyd/动漫频道/api.json",
+                "name":"雷友📽️动漫"
+        },
+        {       "url":"https://agit.ai/hu/hcr/raw/branch/master/短剧.json",
+                "name":"雷友📽️短剧"
+        },
+        {       "url":"https://gitee.com/shan-hai-guan-wu/test/raw/master/leiyou.json",
+                "name":"东雷友📽️测试"
+        }
+    ]
+}
